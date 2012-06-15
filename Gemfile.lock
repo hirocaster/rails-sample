@@ -70,6 +70,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack (= 1.2.5)
   rails (= 3.0.4)
   sqlite3
